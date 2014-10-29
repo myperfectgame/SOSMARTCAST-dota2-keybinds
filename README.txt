@@ -6,6 +6,7 @@ This is a system of .cfg files that control all aspects of the game.
 
 Using this, you have full control over what volvo gave you in-game, meaning you can tweak every aspect of the game by modifying text files. You can do special functions and keybinds that are not possible otherwise from the in-game menu.
  
+This was originally set up by loopuleasa at https://github.com/loopuleasa/super-compact-dota2-keybinds.git
  
  
 ////////////////////////////////////////////////////
