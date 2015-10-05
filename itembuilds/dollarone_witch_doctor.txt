@@ -1,0 +1,48 @@
+"itembuilds"
+{
+	"author"		"dollarone"
+	"hero"			"npc_dota_hero_witch_doctor"
+	"Title"			"Malpractice makes perfect"
+	
+	"Items"
+	{		
+		"#DOTA_Item_Build_Starting_Items" edited by ODDVAR
+		{
+			"item"		"item_courier"
+			"item"		"item_tango"
+			"item"		"item_tango"
+			"item"		"item_clarity"
+			"item"		"item_clarity"
+			"item"		"item_branches"
+			"item"		"item_branches"
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		{	
+			"item"		"item_boots"
+			"item"		"item_magic_wand"
+			"item"		"item_flying_courier"
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"		"item_ward_observer"
+			"item"		"item_tpscroll"
+			"item"		"item_arcane_boots"
+			"item"		"item_bracer"
+			"item"		"item_ancient_janggo"
+			"item"		"item_urn_of_shadows"
+			"item"		"item_invis_sword"
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		{
+			"item"		"item_ultimate_scepter"
+			"item"		"item_black_king_bar"
+			"item"		"item_refresher"						
+			"item"		"item_travel_boots"
+			"item"		"item_shivas_guard"
+			"item"		"item_sphere"
+		}
+	}
+}
